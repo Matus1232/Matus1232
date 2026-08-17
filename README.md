@@ -12,25 +12,8 @@ fields_of_interest: ["Software Development", "Embedded systems", "Web Applicatio
 
 </div>
 
----
 
-### Tech Stack
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,elm" />
-
-**Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
-
-**Backend & DB**
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
-
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,vercel,gcp" />
-
----
-
-### Featured Projects
 
 
 </div>
