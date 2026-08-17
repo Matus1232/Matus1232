@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Matus1232/Matus1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Matúš Kotteš
+located_in: Trnava, Slovakia
+education: Pursuing Bc. in Applied informatics @ MTF STU Bratislava (3rd year)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interest: ["Software Development", "Embedded systems", "Web Applications","Electronics"]
+
+
+
+</div>
+
+---
+
+### Tech Stack
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,elm" />
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
+
+**Backend & DB**
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,vercel,gcp" />
+
+---
+
+### Featured Projects
+
+
+</div>
