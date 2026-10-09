@@ -14,5 +14,5 @@ Tech Stack
 Languages:Python,Java,C,C++
 Frontend:HTML,CSS
 Backend:SQL,FastAPI
-Tools:Git,Docker,Railway,Linux,NumPy,Pandas
+Tools:Git,Docker,Linux,NumPy,Pandas
 
